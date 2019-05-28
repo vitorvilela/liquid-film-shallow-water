@@ -1,0 +1,11 @@
+
+
+
+
+
+mass	0.0000156	kg
+time	0.00845	s
+mass rate	0.0018461538	kg/s
+density	690	kg/m³
+volume rate	2.67558528428094E-006	m³/s
+
