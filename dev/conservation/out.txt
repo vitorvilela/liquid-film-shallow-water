@@ -1,0 +1,4801 @@
+
+*************** INIT ******************
+massRate: 1.846154e-03
+volumeRate: 2.675585e-06
+filmThicknessRate: 3.388744e-02
+dt: 0.001000
+initialWetArea (7.895508e-05)
+(Theoretical) sum of h=filmThicknessRate*dt (3.388744e-05)
+(Simulated) accumulatedThickness (3.388744e-05)
+Theoretical - Simulated thickness difference (1.999639e-13 %)
+injected (11.834320 %) of total spray mass
+initial deposition difference = 0.000000 %
+minThickness: 2.426812e-08, maxThickness: 2.907403e-07, avgThickness: 1.283615e-07
+*************** INIT ******************
+
+
+*************** SOURCE ******************
+injected (23.668639 %) of total spray mass
+wet area = 7.895508e-05 - increased: 0.000000 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 4.853625e-08, max: 5.814805e-07, avgThickness: 2.576973e-07
+Average Film Velocity: 7.474393e+00 m/s
+X Film Front at: 4.757812e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (23.980069 %) of total spray mass
+wet area = 9.749756e-05 - increased: 23.484848 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.117210e-16, max: 5.884852e-07, avgThickness: 2.112824e-07
+Average Film Velocity: 6.055592e+00 m/s
+X Film Front at: 5.851563e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (24.291498 %) of total spray mass
+wet area = 9.809570e-05 - increased: 24.242424 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 2.040617e-15, max: 5.951575e-07, avgThickness: 2.127169e-07
+Average Film Velocity: 6.022043e+00 m/s
+X Film Front at: 5.851563e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (24.602927 %) of total spray mass
+wet area = 9.809570e-05 - increased: 24.242424 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 7.666330e-15, max: 6.023459e-07, avgThickness: 2.154440e-07
+Average Film Velocity: 6.025931e+00 m/s
+X Film Front at: 5.851563e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (24.914357 %) of total spray mass
+wet area = 9.809570e-05 - increased: 24.242424 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.961522e-14, max: 6.099508e-07, avgThickness: 2.181711e-07
+Average Film Velocity: 6.029959e+00 m/s
+X Film Front at: 5.851563e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (25.225786 %) of total spray mass
+wet area = 9.809570e-05 - increased: 24.242424 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 4.114537e-14, max: 6.172043e-07, avgThickness: 2.208983e-07
+Average Film Velocity: 6.034170e+00 m/s
+X Film Front at: 5.851563e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (25.537216 %) of total spray mass
+wet area = 1.010864e-04 - increased: 28.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.110030e-16, max: 6.248247e-07, avgThickness: 2.169897e-07
+Average Film Velocity: 5.860006e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (25.848645 %) of total spray mass
+wet area = 1.022827e-04 - increased: 29.545455 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.923598e-16, max: 6.347489e-07, avgThickness: 2.170595e-07
+Average Film Velocity: 5.796147e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (26.160075 %) of total spray mass
+wet area = 1.040771e-04 - increased: 31.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.136552e-16, max: 6.439438e-07, avgThickness: 2.158763e-07
+Average Film Velocity: 5.701260e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (26.471504 %) of total spray mass
+wet area = 1.040771e-04 - increased: 31.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 2.252098e-16, max: 6.564375e-07, avgThickness: 2.184462e-07
+Average Film Velocity: 5.706830e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (26.782934 %) of total spray mass
+wet area = 1.040771e-04 - increased: 31.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 4.249438e-16, max: 6.687424e-07, avgThickness: 2.210162e-07
+Average Film Velocity: 5.712990e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (27.094363 %) of total spray mass
+wet area = 1.040771e-04 - increased: 31.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 8.058499e-16, max: 6.805249e-07, avgThickness: 2.235861e-07
+Average Film Velocity: 5.719823e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (27.405793 %) of total spray mass
+wet area = 1.040771e-04 - increased: 31.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.524990e-15, max: 6.965598e-07, avgThickness: 2.261561e-07
+Average Film Velocity: 5.727439e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (27.717222 %) of total spray mass
+wet area = 1.040771e-04 - increased: 31.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 2.842995e-15, max: 7.112067e-07, avgThickness: 2.287260e-07
+Average Film Velocity: 5.736041e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (28.028652 %) of total spray mass
+wet area = 1.040771e-04 - increased: 31.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 5.195100e-15, max: 7.282439e-07, avgThickness: 2.312960e-07
+Average Film Velocity: 5.745917e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (28.340081 %) of total spray mass
+wet area = 1.040771e-04 - increased: 31.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 9.472142e-15, max: 7.470046e-07, avgThickness: 2.338660e-07
+Average Film Velocity: 5.757409e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (28.651510 %) of total spray mass
+wet area = 1.040771e-04 - increased: 31.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.575016e-14, max: 7.636672e-07, avgThickness: 2.364359e-07
+Average Film Velocity: 5.770900e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (28.962940 %) of total spray mass
+wet area = 1.046753e-04 - increased: 32.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 3.719379e-16, max: 7.846833e-07, avgThickness: 2.376362e-07
+Average Film Velocity: 5.753506e+00 m/s
+X Film Front at: 6.398437e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (29.274369 %) of total spray mass
+wet area = 1.064697e-04 - increased: 34.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.035037e-16, max: 8.057450e-07, avgThickness: 2.361319e-07
+Average Film Velocity: 5.674080e+00 m/s
+X Film Front at: 6.945313e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (29.585799 %) of total spray mass
+wet area = 1.076660e-04 - increased: 36.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.086189e-16, max: 8.240535e-07, avgThickness: 2.359849e-07
+Average Film Velocity: 5.630484e+00 m/s
+X Film Front at: 6.945313e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (29.897228 %) of total spray mass
+wet area = 1.088623e-04 - increased: 37.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.693882e-16, max: 8.481937e-07, avgThickness: 2.358412e-07
+Average Film Velocity: 5.589589e+00 m/s
+X Film Front at: 6.945313e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (30.208658 %) of total spray mass
+wet area = 1.088623e-04 - increased: 37.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 6.005299e-16, max: 8.712581e-07, avgThickness: 2.382979e-07
+Average Film Velocity: 5.611836e+00 m/s
+X Film Front at: 6.945313e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (30.520087 %) of total spray mass
+wet area = 1.088623e-04 - increased: 37.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.925199e-15, max: 8.908685e-07, avgThickness: 2.407546e-07
+Average Film Velocity: 5.635132e+00 m/s
+X Film Front at: 6.945313e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (30.831517 %) of total spray mass
+wet area = 1.094604e-04 - increased: 38.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.647147e-16, max: 9.127668e-07, avgThickness: 2.418786e-07
+Average Film Velocity: 5.628757e+00 m/s
+X Film Front at: 6.945313e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (31.142946 %) of total spray mass
+wet area = 1.094604e-04 - increased: 38.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 3.532590e-16, max: 9.371221e-07, avgThickness: 2.443218e-07
+Average Film Velocity: 5.655170e+00 m/s
+X Film Front at: 6.945313e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (31.454376 %) of total spray mass
+wet area = 1.106567e-04 - increased: 40.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 7.093833e-16, max: 9.576906e-07, avgThickness: 2.440901e-07
+Average Film Velocity: 5.622130e+00 m/s
+X Film Front at: 7.492188e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (31.765805 %) of total spray mass
+wet area = 1.112549e-04 - increased: 40.909091 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.346619e-15, max: 9.878663e-07, avgThickness: 2.451779e-07
+Average Film Velocity: 5.620729e+00 m/s
+X Film Front at: 7.492188e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (32.077235 %) of total spray mass
+wet area = 1.136475e-04 - increased: 43.939394 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.288913e-16, max: 1.031883e-06, avgThickness: 2.423557e-07
+Average Film Velocity: 5.530822e+00 m/s
+X Film Front at: 7.492188e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (32.388664 %) of total spray mass
+wet area = 1.136475e-04 - increased: 43.939394 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.910237e-16, max: 1.069480e-06, avgThickness: 2.447086e-07
+Average Film Velocity: 5.559154e+00 m/s
+X Film Front at: 7.492188e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (32.700093 %) of total spray mass
+wet area = 1.142456e-04 - increased: 44.696970 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 2.778630e-16, max: 1.104334e-06, avgThickness: 2.457647e-07
+Average Film Velocity: 5.558024e+00 m/s
+X Film Front at: 7.492188e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (33.011523 %) of total spray mass
+wet area = 1.148437e-04 - increased: 45.454545 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 3.231694e-16, max: 1.182330e-06, avgThickness: 2.468097e-07
+Average Film Velocity: 5.557803e+00 m/s
+X Film Front at: 8.039063e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (33.322952 %) of total spray mass
+wet area = 1.166382e-04 - increased: 47.727273 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.804117e-16, max: 1.246461e-06, avgThickness: 2.452954e-07
+Average Film Velocity: 5.500262e+00 m/s
+X Film Front at: 8.039063e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (33.634382 %) of total spray mass
+wet area = 1.172363e-04 - increased: 48.484848 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 4.435442e-16, max: 1.292123e-06, avgThickness: 2.463214e-07
+Average Film Velocity: 5.500057e+00 m/s
+X Film Front at: 8.039063e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (33.945811 %) of total spray mass
+wet area = 1.172363e-04 - increased: 48.484848 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.061845e-15, max: 1.319792e-06, avgThickness: 2.486021e-07
+Average Film Velocity: 5.527760e+00 m/s
+X Film Front at: 8.039063e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (34.257241 %) of total spray mass
+wet area = 1.178345e-04 - increased: 49.242424 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 7.355994e-16, max: 1.330266e-06, avgThickness: 2.496061e-07
+Average Film Velocity: 5.526939e+00 m/s
+X Film Front at: 8.039063e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (34.568670 %) of total spray mass
+wet area = 1.190308e-04 - increased: 50.757576 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 2.577819e-16, max: 1.404996e-06, avgThickness: 2.493375e-07
+Average Film Velocity: 5.498106e+00 m/s
+X Film Front at: 8.585937e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (34.880100 %) of total spray mass
+wet area = 1.202271e-04 - increased: 52.272727 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.101781e-16, max: 1.482428e-06, avgThickness: 2.490742e-07
+Average Film Velocity: 5.469847e+00 m/s
+X Film Front at: 8.585937e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (35.191529 %) of total spray mass
+wet area = 1.214233e-04 - increased: 53.787879 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.301642e-16, max: 1.529153e-06, avgThickness: 2.488161e-07
+Average Film Velocity: 5.441090e+00 m/s
+X Film Front at: 8.585937e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (35.502959 %) of total spray mass
+wet area = 1.226196e-04 - increased: 55.303030 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.034138e-16, max: 1.544104e-06, avgThickness: 2.485631e-07
+Average Film Velocity: 5.412163e+00 m/s
+X Film Front at: 8.585937e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (35.814388 %) of total spray mass
+wet area = 1.226196e-04 - increased: 55.303030 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.774215e-16, max: 1.529739e-06, avgThickness: 2.507435e-07
+Average Film Velocity: 5.435525e+00 m/s
+X Film Front at: 8.585937e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (36.125818 %) of total spray mass
+wet area = 1.232178e-04 - increased: 56.060606 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 2.049277e-16, max: 1.584841e-06, avgThickness: 2.516931e-07
+Average Film Velocity: 5.431670e+00 m/s
+X Film Front at: 9.132813e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (36.437247 %) of total spray mass
+wet area = 1.250122e-04 - increased: 58.333333 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.057205e-16, max: 1.664345e-06, avgThickness: 2.502102e-07
+Average Film Velocity: 5.375200e+00 m/s
+X Film Front at: 9.132813e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (36.748676 %) of total spray mass
+wet area = 1.268066e-04 - increased: 60.606061 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.004532e-16, max: 1.708997e-06, avgThickness: 2.487693e-07
+Average Film Velocity: 5.319217e+00 m/s
+X Film Front at: 9.132813e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (37.060106 %) of total spray mass
+wet area = 1.274048e-04 - increased: 61.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.917433e-16, max: 1.712433e-06, avgThickness: 2.496969e-07
+Average Film Velocity: 5.313348e+00 m/s
+X Film Front at: 9.132813e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (37.371535 %) of total spray mass
+wet area = 1.274048e-04 - increased: 61.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 2.494666e-16, max: 1.679046e-06, avgThickness: 2.517952e-07
+Average Film Velocity: 5.331238e+00 m/s
+X Film Front at: 9.132813e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (37.682965 %) of total spray mass
+wet area = 1.286011e-04 - increased: 62.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.896745e-16, max: 1.706586e-06, avgThickness: 2.515262e-07
+Average Film Velocity: 5.298089e+00 m/s
+X Film Front at: 9.679688e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (37.994394 %) of total spray mass
+wet area = 1.291992e-04 - increased: 63.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 2.771629e-16, max: 1.782633e-06, avgThickness: 2.524281e-07
+Average Film Velocity: 5.289014e+00 m/s
+X Film Front at: 9.679688e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (38.305824 %) of total spray mass
+wet area = 1.297974e-04 - increased: 64.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.674487e-16, max: 1.826625e-06, avgThickness: 2.533217e-07
+Average Film Velocity: 5.279127e+00 m/s
+X Film Front at: 9.679688e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (38.617253 %) of total spray mass
+wet area = 1.309937e-04 - increased: 65.909091 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.608668e-16, max: 1.824276e-06, avgThickness: 2.530436e-07
+Average Film Velocity: 5.244027e+00 m/s
+X Film Front at: 9.679688e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (38.928683 %) of total spray mass
+wet area = 1.315918e-04 - increased: 66.666667 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 2.412384e-16, max: 1.784598e-06, avgThickness: 2.539222e-07
+Average Film Velocity: 5.232683e+00 m/s
+X Film Front at: 9.679688e-03
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (39.240112 %) of total spray mass
+wet area = 1.321899e-04 - increased: 67.424242 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 2.931747e-16, max: 1.773909e-06, avgThickness: 2.547928e-07
+Average Film Velocity: 5.220062e+00 m/s
+X Film Front at: 1.022656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (39.551542 %) of total spray mass
+wet area = 1.327881e-04 - increased: 68.181818 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.629105e-16, max: 1.844663e-06, avgThickness: 2.556555e-07
+Average Film Velocity: 5.206880e+00 m/s
+X Film Front at: 1.022656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (39.862971 %) of total spray mass
+wet area = 1.327881e-04 - increased: 68.181818 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 7.702435e-16, max: 1.887881e-06, avgThickness: 2.576685e-07
+Average Film Velocity: 5.216314e+00 m/s
+X Film Front at: 1.022656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (40.174400 %) of total spray mass
+wet area = 1.339844e-04 - increased: 69.696970 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.166096e-16, max: 1.887367e-06, avgThickness: 2.573578e-07
+Average Film Velocity: 5.178024e+00 m/s
+X Film Front at: 1.022656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (40.485830 %) of total spray mass
+wet area = 1.375732e-04 - increased: 74.242424 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.041085e-16, max: 1.849795e-06, avgThickness: 2.525724e-07
+Average Film Velocity: 5.050594e+00 m/s
+X Film Front at: 1.022656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (40.797259 %) of total spray mass
+wet area = 1.387695e-04 - increased: 75.757576 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.041584e-16, max: 1.794292e-06, avgThickness: 2.523164e-07
+Average Film Velocity: 5.013791e+00 m/s
+X Film Front at: 1.077344e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (41.108689 %) of total spray mass
+wet area = 1.399658e-04 - increased: 77.272727 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.094101e-16, max: 1.859573e-06, avgThickness: 2.520648e-07
+Average Film Velocity: 4.976666e+00 m/s
+X Film Front at: 1.077344e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (41.420118 %) of total spray mass
+wet area = 1.405640e-04 - increased: 78.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.147834e-16, max: 1.899472e-06, avgThickness: 2.528913e-07
+Average Film Velocity: 4.960490e+00 m/s
+X Film Front at: 1.077344e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (41.731548 %) of total spray mass
+wet area = 1.411621e-04 - increased: 78.787879 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.029186e-16, max: 1.907170e-06, avgThickness: 2.537108e-07
+Average Film Velocity: 4.943754e+00 m/s
+X Film Front at: 1.077344e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (42.042977 %) of total spray mass
+wet area = 1.417603e-04 - increased: 79.545455 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.068167e-16, max: 1.877454e-06, avgThickness: 2.545234e-07
+Average Film Velocity: 4.926654e+00 m/s
+X Film Front at: 1.077344e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (42.354407 %) of total spray mass
+wet area = 1.429565e-04 - increased: 81.060606 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.088683e-16, max: 1.822944e-06, avgThickness: 2.542586e-07
+Average Film Velocity: 4.888937e+00 m/s
+X Film Front at: 1.132031e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (42.665836 %) of total spray mass
+wet area = 1.435547e-04 - increased: 81.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.148140e-16, max: 1.825428e-06, avgThickness: 2.550587e-07
+Average Film Velocity: 4.871850e+00 m/s
+X Film Front at: 1.132031e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (42.977266 %) of total spray mass
+wet area = 1.447510e-04 - increased: 83.333333 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.189131e-16, max: 1.866208e-06, avgThickness: 2.547928e-07
+Average Film Velocity: 4.833954e+00 m/s
+X Film Front at: 1.132031e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (43.288695 %) of total spray mass
+wet area = 1.453491e-04 - increased: 84.090909 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.230790e-16, max: 1.885417e-06, avgThickness: 2.555808e-07
+Average Film Velocity: 4.816039e+00 m/s
+X Film Front at: 1.132031e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (43.600125 %) of total spray mass
+wet area = 1.459473e-04 - increased: 84.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.273118e-16, max: 1.874598e-06, avgThickness: 2.563623e-07
+Average Film Velocity: 4.797719e+00 m/s
+X Film Front at: 1.132031e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (43.911554 %) of total spray mass
+wet area = 1.465454e-04 - increased: 85.606061 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.316115e-16, max: 1.837335e-06, avgThickness: 2.571375e-07
+Average Film Velocity: 4.779243e+00 m/s
+X Film Front at: 1.132031e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (44.222983 %) of total spray mass
+wet area = 1.471436e-04 - increased: 86.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.359782e-16, max: 1.792506e-06, avgThickness: 2.579063e-07
+Average Film Velocity: 4.760659e+00 m/s
+X Film Front at: 1.186719e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (44.534413 %) of total spray mass
+wet area = 1.483398e-04 - increased: 87.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.404120e-16, max: 1.809218e-06, avgThickness: 2.576238e-07
+Average Film Velocity: 4.722872e+00 m/s
+X Film Front at: 1.186719e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (44.845842 %) of total spray mass
+wet area = 1.495361e-04 - increased: 89.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.018802e-16, max: 1.836182e-06, avgThickness: 2.573458e-07
+Average Film Velocity: 4.685198e+00 m/s
+X Film Front at: 1.186719e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (45.157272 %) of total spray mass
+wet area = 1.501343e-04 - increased: 90.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.048849e-16, max: 1.844800e-06, avgThickness: 2.580985e-07
+Average Film Velocity: 4.666474e+00 m/s
+X Film Front at: 1.186719e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (45.468701 %) of total spray mass
+wet area = 1.501343e-04 - increased: 90.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.079314e-16, max: 1.831904e-06, avgThickness: 2.598784e-07
+Average Film Velocity: 4.666082e+00 m/s
+X Film Front at: 1.186719e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (45.780131 %) of total spray mass
+wet area = 1.519287e-04 - increased: 92.424242 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.110199e-16, max: 1.797662e-06, avgThickness: 2.585619e-07
+Average Film Velocity: 4.610308e+00 m/s
+X Film Front at: 1.241406e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (46.091560 %) of total spray mass
+wet area = 1.525269e-04 - increased: 93.181818 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.141505e-16, max: 1.757285e-06, avgThickness: 2.592979e-07
+Average Film Velocity: 4.591596e+00 m/s
+X Film Front at: 1.241406e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (46.402990 %) of total spray mass
+wet area = 1.537231e-04 - increased: 94.696970 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.161046e-16, max: 1.768028e-06, avgThickness: 2.590145e-07
+Average Film Velocity: 4.554953e+00 m/s
+X Film Front at: 1.241406e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (46.714419 %) of total spray mass
+wet area = 1.543213e-04 - increased: 95.454545 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.072438e-16, max: 1.789166e-06, avgThickness: 2.597402e-07
+Average Film Velocity: 4.536159e+00 m/s
+X Film Front at: 1.241406e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (47.025849 %) of total spray mass
+wet area = 1.543213e-04 - increased: 95.454545 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.237965e-16, max: 1.796484e-06, avgThickness: 2.614718e-07
+Average Film Velocity: 4.534942e+00 m/s
+X Film Front at: 1.241406e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (47.337278 %) of total spray mass
+wet area = 1.555176e-04 - increased: 96.969697 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.110378e-16, max: 1.790486e-06, avgThickness: 2.611749e-07
+Average Film Velocity: 4.498580e+00 m/s
+X Film Front at: 1.241406e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (47.648708 %) of total spray mass
+wet area = 1.561157e-04 - increased: 97.727273 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.074508e-16, max: 1.765128e-06, avgThickness: 2.618839e-07
+Average Film Velocity: 4.479869e+00 m/s
+X Film Front at: 1.296094e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (47.960137 %) of total spray mass
+wet area = 1.567139e-04 - increased: 98.484848 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.338274e-16, max: 1.724568e-06, avgThickness: 2.625876e-07
+Average Film Velocity: 4.461152e+00 m/s
+X Film Front at: 1.296094e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (48.271566 %) of total spray mass
+wet area = 1.573120e-04 - increased: 99.242424 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.341646e-16, max: 1.711946e-06, avgThickness: 2.632859e-07
+Average Film Velocity: 4.442666e+00 m/s
+X Film Front at: 1.296094e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (48.582996 %) of total spray mass
+wet area = 1.585083e-04 - increased: 100.757576 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.407306e-16, max: 1.733974e-06, avgThickness: 2.629808e-07
+Average Film Velocity: 4.407305e+00 m/s
+X Film Front at: 1.296094e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (48.894425 %) of total spray mass
+wet area = 1.591064e-04 - increased: 101.515152 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.354282e-16, max: 1.744731e-06, avgThickness: 2.636697e-07
+Average Film Velocity: 4.388946e+00 m/s
+X Film Front at: 1.296094e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (49.205855 %) of total spray mass
+wet area = 1.597046e-04 - increased: 102.272727 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.478083e-16, max: 1.745089e-06, avgThickness: 2.643535e-07
+Average Film Velocity: 4.370720e+00 m/s
+X Film Front at: 1.296094e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (49.517284 %) of total spray mass
+wet area = 1.597046e-04 - increased: 102.272727 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.514130e-16, max: 1.734005e-06, avgThickness: 2.660266e-07
+Average Film Velocity: 4.368793e+00 m/s
+X Film Front at: 1.296094e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (49.828714 %) of total spray mass
+wet area = 1.609009e-04 - increased: 103.787879 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.550617e-16, max: 1.707989e-06, avgThickness: 2.657057e-07
+Average Film Velocity: 4.334228e+00 m/s
+X Film Front at: 1.350781e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (50.140143 %) of total spray mass
+wet area = 1.614990e-04 - increased: 104.545455 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.587548e-16, max: 1.671559e-06, avgThickness: 2.663743e-07
+Average Film Velocity: 4.316141e+00 m/s
+X Film Front at: 1.350781e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (50.451573 %) of total spray mass
+wet area = 1.620972e-04 - increased: 105.303030 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.579006e-16, max: 1.674429e-06, avgThickness: 2.670379e-07
+Average Film Velocity: 4.298290e+00 m/s
+X Film Front at: 1.350781e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (50.763002 %) of total spray mass
+wet area = 1.632935e-04 - increased: 106.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.582636e-16, max: 1.691405e-06, avgThickness: 2.667143e-07
+Average Film Velocity: 4.264679e+00 m/s
+X Film Front at: 1.350781e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (51.074432 %) of total spray mass
+wet area = 1.632935e-04 - increased: 106.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.701015e-16, max: 1.699467e-06, avgThickness: 2.683505e-07
+Average Film Velocity: 4.262516e+00 m/s
+X Film Front at: 1.350781e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (51.385861 %) of total spray mass
+wet area = 1.638916e-04 - increased: 107.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.443505e-16, max: 1.699180e-06, avgThickness: 2.689997e-07
+Average Film Velocity: 4.244693e+00 m/s
+X Film Front at: 1.350781e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (51.697291 %) of total spray mass
+wet area = 1.638916e-04 - increased: 107.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.778905e-16, max: 1.690926e-06, avgThickness: 2.706300e-07
+Average Film Velocity: 4.242389e+00 m/s
+X Film Front at: 1.350781e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (52.008720 %) of total spray mass
+wet area = 1.644897e-04 - increased: 108.333333 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.818529e-16, max: 1.669859e-06, avgThickness: 2.712684e-07
+Average Film Velocity: 4.224653e+00 m/s
+X Film Front at: 1.405469e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (52.320149 %) of total spray mass
+wet area = 1.644897e-04 - increased: 108.333333 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.858608e-16, max: 1.638183e-06, avgThickness: 2.728928e-07
+Average Film Velocity: 4.222419e+00 m/s
+X Film Front at: 1.405469e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (52.631579 %) of total spray mass
+wet area = 1.668823e-04 - increased: 111.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.019257e-16, max: 1.626910e-06, avgThickness: 2.705744e-07
+Average Film Velocity: 4.159604e+00 m/s
+X Film Front at: 1.405469e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (52.943008 %) of total spray mass
+wet area = 1.668823e-04 - increased: 111.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.040376e-16, max: 1.644517e-06, avgThickness: 2.721754e-07
+Average Film Velocity: 4.157337e+00 m/s
+X Film Front at: 1.405469e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (53.254438 %) of total spray mass
+wet area = 1.680786e-04 - increased: 112.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.061724e-16, max: 1.654777e-06, avgThickness: 2.718244e-07
+Average Film Velocity: 4.125499e+00 m/s
+X Film Front at: 1.405469e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (53.565867 %) of total spray mass
+wet area = 1.680786e-04 - increased: 112.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.083302e-16, max: 1.658012e-06, avgThickness: 2.734140e-07
+Average Film Velocity: 4.123171e+00 m/s
+X Film Front at: 1.405469e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (53.877297 %) of total spray mass
+wet area = 1.680786e-04 - increased: 112.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.105111e-16, max: 1.654624e-06, avgThickness: 2.750036e-07
+Average Film Velocity: 4.120813e+00 m/s
+X Film Front at: 1.405469e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (54.188726 %) of total spray mass
+wet area = 1.680786e-04 - increased: 112.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.127152e-16, max: 1.643677e-06, avgThickness: 2.765932e-07
+Average Film Velocity: 4.118442e+00 m/s
+X Film Front at: 1.405469e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (54.500156 %) of total spray mass
+wet area = 1.692749e-04 - increased: 114.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.124467e-16, max: 1.622730e-06, avgThickness: 2.762134e-07
+Average Film Velocity: 4.086937e+00 m/s
+X Film Front at: 1.460156e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (54.811585 %) of total spray mass
+wet area = 1.704712e-04 - increased: 115.909091 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.001148e-16, max: 1.593214e-06, avgThickness: 2.758389e-07
+Average Film Velocity: 4.056007e+00 m/s
+X Film Front at: 1.460156e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (55.123015 %) of total spray mass
+wet area = 1.710693e-04 - increased: 116.666667 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.019068e-16, max: 1.590931e-06, avgThickness: 2.764345e-07
+Average Film Velocity: 4.039601e+00 m/s
+X Film Front at: 1.460156e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (55.434444 %) of total spray mass
+wet area = 1.710693e-04 - increased: 116.666667 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.037156e-16, max: 1.606552e-06, avgThickness: 2.779963e-07
+Average Film Velocity: 4.037328e+00 m/s
+X Film Front at: 1.460156e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (55.745874 %) of total spray mass
+wet area = 1.728638e-04 - increased: 118.939394 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.055414e-16, max: 1.616161e-06, avgThickness: 2.766511e-07
+Average Film Velocity: 3.993224e+00 m/s
+X Film Front at: 1.460156e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (56.057303 %) of total spray mass
+wet area = 1.728638e-04 - increased: 118.939394 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.073841e-16, max: 1.619988e-06, avgThickness: 2.781966e-07
+Average Film Velocity: 3.991058e+00 m/s
+X Film Front at: 1.460156e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (56.368732 %) of total spray mass
+wet area = 1.740601e-04 - increased: 120.454545 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.092439e-16, max: 1.618322e-06, avgThickness: 2.778162e-07
+Average Film Velocity: 3.961384e+00 m/s
+X Film Front at: 1.460156e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (56.680162 %) of total spray mass
+wet area = 1.740601e-04 - increased: 120.454545 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.111208e-16, max: 1.611469e-06, avgThickness: 2.793511e-07
+Average Film Velocity: 3.959072e+00 m/s
+X Film Front at: 1.460156e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (56.991591 %) of total spray mass
+wet area = 1.740601e-04 - increased: 120.454545 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.130148e-16, max: 1.596455e-06, avgThickness: 2.808860e-07
+Average Film Velocity: 3.956733e+00 m/s
+X Film Front at: 1.460156e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (57.303021 %) of total spray mass
+wet area = 1.746582e-04 - increased: 121.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.149260e-16, max: 1.574003e-06, avgThickness: 2.814520e-07
+Average Film Velocity: 3.940874e+00 m/s
+X Film Front at: 1.514844e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (57.614450 %) of total spray mass
+wet area = 1.746582e-04 - increased: 121.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.168545e-16, max: 1.552043e-06, avgThickness: 2.829817e-07
+Average Film Velocity: 3.938595e+00 m/s
+X Film Front at: 1.514844e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (57.925880 %) of total spray mass
+wet area = 1.746582e-04 - increased: 121.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.188002e-16, max: 1.561811e-06, avgThickness: 2.845113e-07
+Average Film Velocity: 3.936276e+00 m/s
+X Film Front at: 1.514844e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (58.237309 %) of total spray mass
+wet area = 1.746582e-04 - increased: 121.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.207633e-16, max: 1.574924e-06, avgThickness: 2.860409e-07
+Average Film Velocity: 3.933956e+00 m/s
+X Film Front at: 1.514844e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (58.548739 %) of total spray mass
+wet area = 1.746582e-04 - increased: 121.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.227438e-16, max: 1.583141e-06, avgThickness: 2.875706e-07
+Average Film Velocity: 3.931699e+00 m/s
+X Film Front at: 1.514844e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (58.860168 %) of total spray mass
+wet area = 1.758545e-04 - increased: 122.727273 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.037333e-16, max: 1.586637e-06, avgThickness: 2.871302e-07
+Average Film Velocity: 3.902893e+00 m/s
+X Film Front at: 1.514844e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (59.171598 %) of total spray mass
+wet area = 1.758545e-04 - increased: 122.727273 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.267572e-16, max: 1.585629e-06, avgThickness: 2.886494e-07
+Average Film Velocity: 3.900847e+00 m/s
+X Film Front at: 1.514844e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (59.483027 %) of total spray mass
+wet area = 1.764526e-04 - increased: 123.484848 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.009506e-16, max: 1.580348e-06, avgThickness: 2.891833e-07
+Average Film Velocity: 3.885514e+00 m/s
+X Film Front at: 1.514844e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (59.794457 %) of total spray mass
+wet area = 1.776489e-04 - increased: 125.000000 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.308408e-16, max: 1.569102e-06, avgThickness: 2.887365e-07
+Average Film Velocity: 3.857194e+00 m/s
+X Film Front at: 1.514844e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (60.105886 %) of total spray mass
+wet area = 1.788452e-04 - increased: 126.515152 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.014698e-16, max: 1.551591e-06, avgThickness: 2.882957e-07
+Average Film Velocity: 3.829273e+00 m/s
+X Film Front at: 1.514844e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (60.417315 %) of total spray mass
+wet area = 1.794434e-04 - increased: 127.272727 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.179368e-16, max: 1.528546e-06, avgThickness: 2.888218e-07
+Average Film Velocity: 3.814469e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (60.728745 %) of total spray mass
+wet area = 1.800415e-04 - increased: 128.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.229741e-16, max: 1.519141e-06, avgThickness: 2.893445e-07
+Average Film Velocity: 3.799773e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (61.040174 %) of total spray mass
+wet area = 1.800415e-04 - increased: 128.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.392202e-16, max: 1.533342e-06, avgThickness: 2.908283e-07
+Average Film Velocity: 3.797719e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (61.351604 %) of total spray mass
+wet area = 1.800415e-04 - increased: 128.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.413596e-16, max: 1.544672e-06, avgThickness: 2.923122e-07
+Average Film Velocity: 3.795633e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (61.663033 %) of total spray mass
+wet area = 1.800415e-04 - increased: 128.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.435168e-16, max: 1.552044e-06, avgThickness: 2.937960e-07
+Average Film Velocity: 3.793552e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (61.974463 %) of total spray mass
+wet area = 1.800415e-04 - increased: 128.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.456921e-16, max: 1.555594e-06, avgThickness: 2.952798e-07
+Average Film Velocity: 3.791482e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (62.285892 %) of total spray mass
+wet area = 1.800415e-04 - increased: 128.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.478853e-16, max: 1.555485e-06, avgThickness: 2.967636e-07
+Average Film Velocity: 3.789491e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (62.597322 %) of total spray mass
+wet area = 1.806396e-04 - increased: 128.787879 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.500966e-16, max: 1.551890e-06, avgThickness: 2.972582e-07
+Average Film Velocity: 3.775018e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (62.908751 %) of total spray mass
+wet area = 1.812378e-04 - increased: 129.545455 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.523259e-16, max: 1.544314e-06, avgThickness: 2.977496e-07
+Average Film Velocity: 3.760642e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (63.220181 %) of total spray mass
+wet area = 1.812378e-04 - increased: 129.545455 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.545735e-16, max: 1.531487e-06, avgThickness: 2.992236e-07
+Average Film Velocity: 3.758715e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (63.531610 %) of total spray mass
+wet area = 1.818359e-04 - increased: 130.303030 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.173465e-16, max: 1.513983e-06, avgThickness: 2.997068e-07
+Average Film Velocity: 3.744441e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (63.843040 %) of total spray mass
+wet area = 1.818359e-04 - increased: 130.303030 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.591232e-16, max: 1.492894e-06, avgThickness: 3.011760e-07
+Average Film Velocity: 3.742591e+00 m/s
+X Film Front at: 1.569531e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (64.154469 %) of total spray mass
+wet area = 1.830322e-04 - increased: 131.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.453626e-16, max: 1.490874e-06, avgThickness: 3.006638e-07
+Average Film Velocity: 3.716326e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (64.465898 %) of total spray mass
+wet area = 1.830322e-04 - increased: 131.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.637461e-16, max: 1.502748e-06, avgThickness: 3.021233e-07
+Average Film Velocity: 3.714515e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (64.777328 %) of total spray mass
+wet area = 1.836304e-04 - increased: 132.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.117719e-16, max: 1.513745e-06, avgThickness: 3.025924e-07
+Average Film Velocity: 3.700596e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (65.088757 %) of total spray mass
+wet area = 1.842285e-04 - increased: 133.333333 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.226946e-16, max: 1.521551e-06, avgThickness: 3.030584e-07
+Average Film Velocity: 3.686763e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (65.400187 %) of total spray mass
+wet area = 1.842285e-04 - increased: 133.333333 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.698864e-16, max: 1.526268e-06, avgThickness: 3.045084e-07
+Average Film Velocity: 3.684960e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (65.711616 %) of total spray mass
+wet area = 1.842285e-04 - increased: 133.333333 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.732130e-16, max: 1.528016e-06, avgThickness: 3.059585e-07
+Average Film Velocity: 3.683170e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (66.023046 %) of total spray mass
+wet area = 1.842285e-04 - increased: 133.333333 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.756261e-16, max: 1.526921e-06, avgThickness: 3.074085e-07
+Average Film Velocity: 3.681422e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (66.334475 %) of total spray mass
+wet area = 1.848267e-04 - increased: 134.090909 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.041587e-16, max: 1.523116e-06, avgThickness: 3.078574e-07
+Average Film Velocity: 3.667814e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (66.645905 %) of total spray mass
+wet area = 1.854248e-04 - increased: 134.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.482114e-16, max: 1.515826e-06, avgThickness: 3.083034e-07
+Average Film Velocity: 3.654309e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (66.957334 %) of total spray mass
+wet area = 1.854248e-04 - increased: 134.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.829773e-16, max: 1.504568e-06, avgThickness: 3.097440e-07
+Average Film Velocity: 3.652669e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (67.268764 %) of total spray mass
+wet area = 1.866211e-04 - increased: 136.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.034477e-16, max: 1.489693e-06, avgThickness: 3.091867e-07
+Average Film Velocity: 3.627647e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (67.580193 %) of total spray mass
+wet area = 1.866211e-04 - increased: 136.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.104971e-16, max: 1.472096e-06, avgThickness: 3.106181e-07
+Average Film Velocity: 3.626058e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (67.891623 %) of total spray mass
+wet area = 1.866211e-04 - increased: 136.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.179907e-16, max: 1.462929e-06, avgThickness: 3.120496e-07
+Average Film Velocity: 3.624530e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (68.203052 %) of total spray mass
+wet area = 1.866211e-04 - increased: 136.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.259535e-16, max: 1.472877e-06, avgThickness: 3.134810e-07
+Average Film Velocity: 3.623026e+00 m/s
+X Film Front at: 1.624219e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (68.514481 %) of total spray mass
+wet area = 1.884155e-04 - increased: 138.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.010059e-16, max: 1.489411e-06, avgThickness: 3.119085e-07
+Average Film Velocity: 3.587035e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (68.825911 %) of total spray mass
+wet area = 1.884155e-04 - increased: 138.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.331830e-16, max: 1.504155e-06, avgThickness: 3.133262e-07
+Average Film Velocity: 3.585568e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (69.137340 %) of total spray mass
+wet area = 1.890137e-04 - increased: 139.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.310170e-16, max: 1.517139e-06, avgThickness: 3.137464e-07
+Average Film Velocity: 3.572768e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (69.448770 %) of total spray mass
+wet area = 1.890137e-04 - increased: 139.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.630341e-16, max: 1.528408e-06, avgThickness: 3.151597e-07
+Average Film Velocity: 3.571331e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (69.760199 %) of total spray mass
+wet area = 1.890137e-04 - increased: 139.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.737549e-16, max: 1.538020e-06, avgThickness: 3.165729e-07
+Average Film Velocity: 3.569913e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (70.071629 %) of total spray mass
+wet area = 1.890137e-04 - increased: 139.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.851170e-16, max: 1.547492e-06, avgThickness: 3.179862e-07
+Average Film Velocity: 3.568508e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (70.383058 %) of total spray mass
+wet area = 1.896118e-04 - increased: 140.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.003933e-16, max: 1.561725e-06, avgThickness: 3.183903e-07
+Average Film Velocity: 3.555865e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (70.694488 %) of total spray mass
+wet area = 1.896118e-04 - increased: 140.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.017246e-16, max: 1.574309e-06, avgThickness: 3.197991e-07
+Average Film Velocity: 3.554505e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (71.005917 %) of total spray mass
+wet area = 1.902100e-04 - increased: 140.909091 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.030659e-16, max: 1.589043e-06, avgThickness: 3.201963e-07
+Average Film Velocity: 3.542010e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (71.317347 %) of total spray mass
+wet area = 1.902100e-04 - increased: 140.909091 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.044173e-16, max: 1.617855e-06, avgThickness: 3.216006e-07
+Average Film Velocity: 3.540721e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (71.628776 %) of total spray mass
+wet area = 1.908081e-04 - increased: 141.666667 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.047842e-16, max: 1.646329e-06, avgThickness: 3.219909e-07
+Average Film Velocity: 3.528356e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (71.940206 %) of total spray mass
+wet area = 1.908081e-04 - increased: 141.666667 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.071502e-16, max: 1.674362e-06, avgThickness: 3.233908e-07
+Average Film Velocity: 3.527105e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (72.251635 %) of total spray mass
+wet area = 1.914063e-04 - increased: 142.424242 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.027345e-16, max: 1.701855e-06, avgThickness: 3.237742e-07
+Average Film Velocity: 3.514850e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (72.563064 %) of total spray mass
+wet area = 1.914063e-04 - increased: 142.424242 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.099235e-16, max: 1.728711e-06, avgThickness: 3.251698e-07
+Average Film Velocity: 3.513660e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (72.874494 %) of total spray mass
+wet area = 1.914063e-04 - increased: 142.424242 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.113254e-16, max: 1.754844e-06, avgThickness: 3.265654e-07
+Average Film Velocity: 3.512515e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (73.185923 %) of total spray mass
+wet area = 1.914063e-04 - increased: 142.424242 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.127375e-16, max: 1.780171e-06, avgThickness: 3.279609e-07
+Average Film Velocity: 3.511392e+00 m/s
+X Film Front at: 1.678906e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (73.497353 %) of total spray mass
+wet area = 1.920044e-04 - increased: 143.181818 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.141598e-16, max: 1.803597e-06, avgThickness: 3.283289e-07
+Average Film Velocity: 3.499352e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (73.808782 %) of total spray mass
+wet area = 1.920044e-04 - increased: 143.181818 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.155923e-16, max: 1.825089e-06, avgThickness: 3.297201e-07
+Average Film Velocity: 3.498264e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (74.120212 %) of total spray mass
+wet area = 1.920044e-04 - increased: 143.181818 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.170351e-16, max: 1.844634e-06, avgThickness: 3.311113e-07
+Average Film Velocity: 3.497187e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (74.431641 %) of total spray mass
+wet area = 1.926025e-04 - increased: 143.939394 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.020236e-16, max: 1.862235e-06, avgThickness: 3.314683e-07
+Average Film Velocity: 3.485268e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (74.743071 %) of total spray mass
+wet area = 1.937988e-04 - increased: 145.454545 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.084208e-16, max: 1.877911e-06, avgThickness: 3.307974e-07
+Average Film Velocity: 3.462724e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (75.054500 %) of total spray mass
+wet area = 1.937988e-04 - increased: 145.454545 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.214252e-16, max: 1.891693e-06, avgThickness: 3.321757e-07
+Average Film Velocity: 3.461714e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (75.365930 %) of total spray mass
+wet area = 1.937988e-04 - increased: 145.454545 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.229093e-16, max: 1.903624e-06, avgThickness: 3.335540e-07
+Average Film Velocity: 3.460719e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (75.677359 %) of total spray mass
+wet area = 1.937988e-04 - increased: 145.454545 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.244037e-16, max: 1.913681e-06, avgThickness: 3.349324e-07
+Average Film Velocity: 3.459739e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (75.988789 %) of total spray mass
+wet area = 1.943970e-04 - increased: 146.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.007304e-16, max: 1.931063e-06, avgThickness: 3.352743e-07
+Average Film Velocity: 3.448131e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (76.300218 %) of total spray mass
+wet area = 1.943970e-04 - increased: 146.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.018980e-16, max: 1.949286e-06, avgThickness: 3.366484e-07
+Average Film Velocity: 3.447184e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (76.611647 %) of total spray mass
+wet area = 1.943970e-04 - increased: 146.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.030735e-16, max: 1.965681e-06, avgThickness: 3.380224e-07
+Average Film Velocity: 3.446260e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (76.923077 %) of total spray mass
+wet area = 1.943970e-04 - increased: 146.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.042569e-16, max: 1.980270e-06, avgThickness: 3.393965e-07
+Average Film Velocity: 3.445361e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (77.234506 %) of total spray mass
+wet area = 1.943970e-04 - increased: 146.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.054482e-16, max: 1.993089e-06, avgThickness: 3.407706e-07
+Average Film Velocity: 3.444482e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (77.545936 %) of total spray mass
+wet area = 1.943970e-04 - increased: 146.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.066474e-16, max: 2.004046e-06, avgThickness: 3.421447e-07
+Average Film Velocity: 3.443620e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (77.857365 %) of total spray mass
+wet area = 1.943970e-04 - increased: 146.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.078545e-16, max: 2.039987e-06, avgThickness: 3.435187e-07
+Average Film Velocity: 3.442775e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (78.168795 %) of total spray mass
+wet area = 1.943970e-04 - increased: 146.212121 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.090696e-16, max: 2.075531e-06, avgThickness: 3.448928e-07
+Average Film Velocity: 3.441946e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (78.480224 %) of total spray mass
+wet area = 1.949951e-04 - increased: 146.969697 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.102927e-16, max: 2.110548e-06, avgThickness: 3.452031e-07
+Average Film Velocity: 3.430580e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (78.791654 %) of total spray mass
+wet area = 1.955933e-04 - increased: 147.727273 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.115237e-16, max: 2.144943e-06, avgThickness: 3.455115e-07
+Average Film Velocity: 3.419306e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (79.103083 %) of total spray mass
+wet area = 1.961914e-04 - increased: 148.484848 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.127628e-16, max: 2.178644e-06, avgThickness: 3.458180e-07
+Average Film Velocity: 3.408121e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (79.414513 %) of total spray mass
+wet area = 1.961914e-04 - increased: 148.484848 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.140099e-16, max: 2.211547e-06, avgThickness: 3.471795e-07
+Average Film Velocity: 3.407378e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (79.725942 %) of total spray mass
+wet area = 1.961914e-04 - increased: 148.484848 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.152650e-16, max: 2.242860e-06, avgThickness: 3.485409e-07
+Average Film Velocity: 3.406652e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (80.037372 %) of total spray mass
+wet area = 1.967896e-04 - increased: 149.242424 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.006626e-16, max: 2.272074e-06, avgThickness: 3.488373e-07
+Average Film Velocity: 3.395591e+00 m/s
+X Film Front at: 1.733594e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (80.348801 %) of total spray mass
+wet area = 1.973877e-04 - increased: 150.000000 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.018084e-16, max: 2.299171e-06, avgThickness: 3.491318e-07
+Average Film Velocity: 3.384615e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (80.660230 %) of total spray mass
+wet area = 1.973877e-04 - increased: 150.000000 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.029619e-16, max: 2.324132e-06, avgThickness: 3.504850e-07
+Average Film Velocity: 3.383943e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (80.971660 %) of total spray mass
+wet area = 1.973877e-04 - increased: 150.000000 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.041228e-16, max: 2.346943e-06, avgThickness: 3.518383e-07
+Average Film Velocity: 3.383289e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (81.283089 %) of total spray mass
+wet area = 1.973877e-04 - increased: 150.000000 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.052914e-16, max: 2.367607e-06, avgThickness: 3.531915e-07
+Average Film Velocity: 3.382654e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (81.594519 %) of total spray mass
+wet area = 1.973877e-04 - increased: 150.000000 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.064676e-16, max: 2.386137e-06, avgThickness: 3.545447e-07
+Average Film Velocity: 3.382033e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (81.905948 %) of total spray mass
+wet area = 1.973877e-04 - increased: 150.000000 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.076514e-16, max: 2.402556e-06, avgThickness: 3.558979e-07
+Average Film Velocity: 3.381426e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (82.217378 %) of total spray mass
+wet area = 1.979858e-04 - increased: 150.757576 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.088428e-16, max: 2.416428e-06, avgThickness: 3.561702e-07
+Average Film Velocity: 3.370617e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (82.528807 %) of total spray mass
+wet area = 1.979858e-04 - increased: 150.757576 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.100419e-16, max: 2.427635e-06, avgThickness: 3.575193e-07
+Average Film Velocity: 3.370036e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (82.840237 %) of total spray mass
+wet area = 1.979858e-04 - increased: 150.757576 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.112487e-16, max: 2.439602e-06, avgThickness: 3.588685e-07
+Average Film Velocity: 3.369469e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (83.151666 %) of total spray mass
+wet area = 1.979858e-04 - increased: 150.757576 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.124632e-16, max: 2.465678e-06, avgThickness: 3.602176e-07
+Average Film Velocity: 3.368917e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (83.463096 %) of total spray mass
+wet area = 1.985840e-04 - increased: 151.515152 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.136853e-16, max: 2.489662e-06, avgThickness: 3.604760e-07
+Average Film Velocity: 3.358232e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (83.774525 %) of total spray mass
+wet area = 1.985840e-04 - increased: 151.515152 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.149152e-16, max: 2.511616e-06, avgThickness: 3.618211e-07
+Average Film Velocity: 3.357707e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (84.085955 %) of total spray mass
+wet area = 1.985840e-04 - increased: 151.515152 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.161528e-16, max: 2.531546e-06, avgThickness: 3.631662e-07
+Average Film Velocity: 3.357195e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (84.397384 %) of total spray mass
+wet area = 1.985840e-04 - increased: 151.515152 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.173982e-16, max: 2.549466e-06, avgThickness: 3.645112e-07
+Average Film Velocity: 3.356695e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (84.708813 %) of total spray mass
+wet area = 1.985840e-04 - increased: 151.515152 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.186513e-16, max: 2.564874e-06, avgThickness: 3.658563e-07
+Average Film Velocity: 3.356210e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (85.020243 %) of total spray mass
+wet area = 1.985840e-04 - increased: 151.515152 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.199123e-16, max: 2.577715e-06, avgThickness: 3.672013e-07
+Average Film Velocity: 3.355738e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (85.331672 %) of total spray mass
+wet area = 1.985840e-04 - increased: 151.515152 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.211810e-16, max: 2.588126e-06, avgThickness: 3.685464e-07
+Average Film Velocity: 3.355277e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (85.643102 %) of total spray mass
+wet area = 1.985840e-04 - increased: 151.515152 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.224575e-16, max: 2.596245e-06, avgThickness: 3.698915e-07
+Average Film Velocity: 3.354827e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (85.954531 %) of total spray mass
+wet area = 1.991821e-04 - increased: 152.272727 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.002367e-16, max: 2.636033e-06, avgThickness: 3.701200e-07
+Average Film Velocity: 3.344315e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (86.265961 %) of total spray mass
+wet area = 1.991821e-04 - increased: 152.272727 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.013394e-16, max: 2.681729e-06, avgThickness: 3.714610e-07
+Average Film Velocity: 3.343886e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (86.577390 %) of total spray mass
+wet area = 1.991821e-04 - increased: 152.272727 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.024493e-16, max: 2.726753e-06, avgThickness: 3.728020e-07
+Average Film Velocity: 3.343471e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (86.888820 %) of total spray mass
+wet area = 1.997803e-04 - increased: 153.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.035663e-16, max: 2.770998e-06, avgThickness: 3.730212e-07
+Average Film Velocity: 3.333058e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (87.200249 %) of total spray mass
+wet area = 1.997803e-04 - increased: 153.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.046904e-16, max: 2.814359e-06, avgThickness: 3.743582e-07
+Average Film Velocity: 3.332666e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (87.511679 %) of total spray mass
+wet area = 1.997803e-04 - increased: 153.030303 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.058218e-16, max: 2.855867e-06, avgThickness: 3.756952e-07
+Average Film Velocity: 3.332285e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (87.823108 %) of total spray mass
+wet area = 2.003784e-04 - increased: 153.787879 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.069603e-16, max: 2.895004e-06, avgThickness: 3.759050e-07
+Average Film Velocity: 3.321969e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (88.134538 %) of total spray mass
+wet area = 2.003784e-04 - increased: 153.787879 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.081061e-16, max: 2.931713e-06, avgThickness: 3.772380e-07
+Average Film Velocity: 3.321611e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (88.445967 %) of total spray mass
+wet area = 2.015747e-04 - increased: 155.303030 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.058755e-16, max: 2.965954e-06, avgThickness: 3.763210e-07
+Average Film Velocity: 3.301551e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (88.757396 %) of total spray mass
+wet area = 2.015747e-04 - increased: 155.303030 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.104192e-16, max: 2.997699e-06, avgThickness: 3.776460e-07
+Average Film Velocity: 3.301213e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (89.068826 %) of total spray mass
+wet area = 2.015747e-04 - increased: 155.303030 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.115867e-16, max: 3.026934e-06, avgThickness: 3.789711e-07
+Average Film Velocity: 3.300883e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (89.380255 %) of total spray mass
+wet area = 2.015747e-04 - increased: 155.303030 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.127614e-16, max: 3.053657e-06, avgThickness: 3.802962e-07
+Average Film Velocity: 3.300562e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (89.691685 %) of total spray mass
+wet area = 2.015747e-04 - increased: 155.303030 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.139435e-16, max: 3.077880e-06, avgThickness: 3.816213e-07
+Average Film Velocity: 3.300250e+00 m/s
+X Film Front at: 1.788281e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (90.003114 %) of total spray mass
+wet area = 2.021729e-04 - increased: 156.060606 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.151328e-16, max: 3.099140e-06, avgThickness: 3.818117e-07
+Average Film Velocity: 3.290185e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (90.314544 %) of total spray mass
+wet area = 2.021729e-04 - increased: 156.060606 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.163294e-16, max: 3.117173e-06, avgThickness: 3.831328e-07
+Average Film Velocity: 3.289894e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (90.625973 %) of total spray mass
+wet area = 2.021729e-04 - increased: 156.060606 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.175334e-16, max: 3.132133e-06, avgThickness: 3.844540e-07
+Average Film Velocity: 3.289610e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (90.937403 %) of total spray mass
+wet area = 2.027710e-04 - increased: 156.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.101400e-16, max: 3.144128e-06, avgThickness: 3.846355e-07
+Average Film Velocity: 3.279632e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (91.248832 %) of total spray mass
+wet area = 2.027710e-04 - increased: 156.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.199634e-16, max: 3.153112e-06, avgThickness: 3.859527e-07
+Average Film Velocity: 3.279366e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (91.560262 %) of total spray mass
+wet area = 2.027710e-04 - increased: 156.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.211895e-16, max: 3.159291e-06, avgThickness: 3.872699e-07
+Average Film Velocity: 3.279108e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (91.871691 %) of total spray mass
+wet area = 2.027710e-04 - increased: 156.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.224230e-16, max: 3.179333e-06, avgThickness: 3.885872e-07
+Average Film Velocity: 3.278857e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (92.183121 %) of total spray mass
+wet area = 2.027710e-04 - increased: 156.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.236639e-16, max: 3.212778e-06, avgThickness: 3.899044e-07
+Average Film Velocity: 3.278615e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (92.494550 %) of total spray mass
+wet area = 2.027710e-04 - increased: 156.818182 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.249123e-16, max: 3.243854e-06, avgThickness: 3.912217e-07
+Average Film Velocity: 3.278380e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (92.805979 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.023533e-16, max: 3.272555e-06, avgThickness: 3.913827e-07
+Average Film Velocity: 3.268510e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (93.117409 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.207457e-16, max: 3.298887e-06, avgThickness: 3.926961e-07
+Average Film Velocity: 3.268290e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (93.428838 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.287020e-16, max: 3.322444e-06, avgThickness: 3.940094e-07
+Average Film Velocity: 3.268077e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (93.740268 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.299802e-16, max: 3.342900e-06, avgThickness: 3.953228e-07
+Average Film Velocity: 3.267870e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (94.051697 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.312659e-16, max: 3.360386e-06, avgThickness: 3.966362e-07
+Average Film Velocity: 3.267670e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (94.363127 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.325592e-16, max: 3.375034e-06, avgThickness: 3.979495e-07
+Average Film Velocity: 3.267476e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (94.674556 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.338600e-16, max: 3.386979e-06, avgThickness: 3.992629e-07
+Average Film Velocity: 3.267288e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (94.985986 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.351683e-16, max: 3.396327e-06, avgThickness: 4.005762e-07
+Average Film Velocity: 3.267107e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (95.297415 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.364842e-16, max: 3.403012e-06, avgThickness: 4.018896e-07
+Average Film Velocity: 3.266932e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (95.608845 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.378077e-16, max: 3.407235e-06, avgThickness: 4.032030e-07
+Average Film Velocity: 3.266763e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (95.920274 %) of total spray mass
+wet area = 2.033691e-04 - increased: 157.575758 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.391388e-16, max: 3.409228e-06, avgThickness: 4.045163e-07
+Average Film Velocity: 3.266600e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (96.231704 %) of total spray mass
+wet area = 2.039673e-04 - increased: 158.333333 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.013892e-16, max: 3.433928e-06, avgThickness: 4.046378e-07
+Average Film Velocity: 3.256864e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (96.543133 %) of total spray mass
+wet area = 2.045654e-04 - increased: 159.090909 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.057995e-16, max: 3.488980e-06, avgThickness: 4.047586e-07
+Average Film Velocity: 3.247191e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (96.854562 %) of total spray mass
+wet area = 2.045654e-04 - increased: 159.090909 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.103487e-16, max: 3.543193e-06, avgThickness: 4.060643e-07
+Average Film Velocity: 3.247047e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (97.165992 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.001621e-16, max: 3.596475e-06, avgThickness: 4.061806e-07
+Average Film Velocity: 3.237443e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (97.477421 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.011244e-16, max: 3.648019e-06, avgThickness: 4.074824e-07
+Average Film Velocity: 3.237310e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (97.788851 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.020922e-16, max: 3.697032e-06, avgThickness: 4.087843e-07
+Average Film Velocity: 3.237182e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (98.100280 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.030655e-16, max: 3.743460e-06, avgThickness: 4.100862e-07
+Average Film Velocity: 3.237059e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (98.411710 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.040443e-16, max: 3.787263e-06, avgThickness: 4.113880e-07
+Average Film Velocity: 3.236940e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (98.723139 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.050286e-16, max: 3.828409e-06, avgThickness: 4.126899e-07
+Average Film Velocity: 3.236826e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (99.034569 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.060185e-16, max: 3.866878e-06, avgThickness: 4.139917e-07
+Average Film Velocity: 3.236717e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (99.345998 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.070139e-16, max: 3.902659e-06, avgThickness: 4.152936e-07
+Average Film Velocity: 3.236613e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (99.657428 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.080149e-16, max: 3.935750e-06, avgThickness: 4.165955e-07
+Average Film Velocity: 3.236512e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (99.968857 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.090214e-16, max: 3.966159e-06, avgThickness: 4.178973e-07
+Average Film Velocity: 3.236416e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (100.280287 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.100335e-16, max: 3.993120e-06, avgThickness: 4.191992e-07
+Average Film Velocity: 3.236323e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (100.591716 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.110512e-16, max: 4.016575e-06, avgThickness: 4.205010e-07
+Average Film Velocity: 3.236233e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (100.903145 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.120745e-16, max: 4.036661e-06, avgThickness: 4.218029e-07
+Average Film Velocity: 3.236147e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (101.214575 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.131033e-16, max: 4.053518e-06, avgThickness: 4.231048e-07
+Average Film Velocity: 3.236065e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (101.526004 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.141379e-16, max: 4.067289e-06, avgThickness: 4.244066e-07
+Average Film Velocity: 3.235986e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (101.837434 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.151780e-16, max: 4.078116e-06, avgThickness: 4.257085e-07
+Average Film Velocity: 3.235911e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (102.148863 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.162238e-16, max: 4.086015e-06, avgThickness: 4.270104e-07
+Average Film Velocity: 3.235839e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (102.460293 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.172752e-16, max: 4.091015e-06, avgThickness: 4.283122e-07
+Average Film Velocity: 3.235771e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (102.771722 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.183323e-16, max: 4.093286e-06, avgThickness: 4.296141e-07
+Average Film Velocity: 3.235706e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (103.083152 %) of total spray mass
+wet area = 2.051636e-04 - increased: 159.848485 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.193950e-16, max: 4.092995e-06, avgThickness: 4.309159e-07
+Average Film Velocity: 3.235644e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (103.394581 %) of total spray mass
+wet area = 2.057617e-04 - increased: 160.606061 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.204635e-16, max: 4.090308e-06, avgThickness: 4.309595e-07
+Average Film Velocity: 3.226180e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (103.706011 %) of total spray mass
+wet area = 2.063599e-04 - increased: 161.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.003127e-16, max: 4.127810e-06, avgThickness: 4.310029e-07
+Average Film Velocity: 3.216773e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (104.017440 %) of total spray mass
+wet area = 2.063599e-04 - increased: 161.363636 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.010699e-16, max: 4.165817e-06, avgThickness: 4.322972e-07
+Average Film Velocity: 3.216721e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (104.328870 %) of total spray mass
+wet area = 2.069580e-04 - increased: 162.121212 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.018304e-16, max: 4.201366e-06, avgThickness: 4.323365e-07
+Average Film Velocity: 3.207376e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (104.640299 %) of total spray mass
+wet area = 2.069580e-04 - increased: 162.121212 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.025943e-16, max: 4.234458e-06, avgThickness: 4.336270e-07
+Average Film Velocity: 3.207331e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (104.951728 %) of total spray mass
+wet area = 2.069580e-04 - increased: 162.121212 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.033614e-16, max: 4.265101e-06, avgThickness: 4.349176e-07
+Average Film Velocity: 3.207288e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (105.263158 %) of total spray mass
+wet area = 2.069580e-04 - increased: 162.121212 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.041318e-16, max: 4.292543e-06, avgThickness: 4.362082e-07
+Average Film Velocity: 3.207249e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (105.574587 %) of total spray mass
+wet area = 2.069580e-04 - increased: 162.121212 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.049056e-16, max: 4.316770e-06, avgThickness: 4.374987e-07
+Average Film Velocity: 3.207212e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (105.886017 %) of total spray mass
+wet area = 2.069580e-04 - increased: 162.121212 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.056826e-16, max: 4.337895e-06, avgThickness: 4.387893e-07
+Average Film Velocity: 3.207179e+00 m/s
+X Film Front at: 1.842969e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (106.197446 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.020235e-16, max: 4.356032e-06, avgThickness: 4.388098e-07
+Average Film Velocity: 3.197905e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (106.508876 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.072468e-16, max: 4.371298e-06, avgThickness: 4.400966e-07
+Average Film Velocity: 3.197877e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (106.820305 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.080338e-16, max: 4.383815e-06, avgThickness: 4.413834e-07
+Average Film Velocity: 3.197852e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (107.131735 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.088242e-16, max: 4.393705e-06, avgThickness: 4.426703e-07
+Average Film Velocity: 3.197830e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (107.443164 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.096180e-16, max: 4.401090e-06, avgThickness: 4.439571e-07
+Average Film Velocity: 3.197810e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (107.754594 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.104150e-16, max: 4.406090e-06, avgThickness: 4.452439e-07
+Average Film Velocity: 3.197792e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (108.066023 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.112155e-16, max: 4.408744e-06, avgThickness: 4.465308e-07
+Average Film Velocity: 3.197777e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (108.377453 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.120193e-16, max: 4.409046e-06, avgThickness: 4.478176e-07
+Average Film Velocity: 3.197765e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (108.688882 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.128265e-16, max: 4.407133e-06, avgThickness: 4.491044e-07
+Average Film Velocity: 3.197755e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (109.000311 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.136370e-16, max: 4.403141e-06, avgThickness: 4.503912e-07
+Average Film Velocity: 3.197748e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (109.311741 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.144509e-16, max: 4.397245e-06, avgThickness: 4.516781e-07
+Average Film Velocity: 3.197744e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (109.623170 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.152682e-16, max: 4.436334e-06, avgThickness: 4.529649e-07
+Average Film Velocity: 3.197741e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (109.934600 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.160888e-16, max: 4.493982e-06, avgThickness: 4.542517e-07
+Average Film Velocity: 3.197741e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (110.246029 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.169129e-16, max: 4.550625e-06, avgThickness: 4.555386e-07
+Average Film Velocity: 3.197743e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (110.557459 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.177403e-16, max: 4.605102e-06, avgThickness: 4.568254e-07
+Average Film Velocity: 3.197747e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (110.868888 %) of total spray mass
+wet area = 2.075562e-04 - increased: 162.878788 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.185711e-16, max: 4.657048e-06, avgThickness: 4.581122e-07
+Average Film Velocity: 3.197753e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (111.180318 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.028535e-16, max: 4.706434e-06, avgThickness: 4.580771e-07
+Average Film Velocity: 3.188570e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (111.491747 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.128523e-16, max: 4.753238e-06, avgThickness: 4.593602e-07
+Average Film Velocity: 3.188578e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (111.803177 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.210840e-16, max: 4.797444e-06, avgThickness: 4.606433e-07
+Average Film Velocity: 3.188587e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (112.114606 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.219285e-16, max: 4.839044e-06, avgThickness: 4.619264e-07
+Average Film Velocity: 3.188597e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (112.426036 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.227764e-16, max: 4.878036e-06, avgThickness: 4.632096e-07
+Average Film Velocity: 3.188609e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (112.737465 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.236277e-16, max: 4.914425e-06, avgThickness: 4.644927e-07
+Average Film Velocity: 3.188621e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (113.048894 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.244824e-16, max: 4.948221e-06, avgThickness: 4.657758e-07
+Average Film Velocity: 3.188635e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (113.360324 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.253406e-16, max: 4.979439e-06, avgThickness: 4.670590e-07
+Average Film Velocity: 3.188649e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (113.671753 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.262022e-16, max: 5.007347e-06, avgThickness: 4.683421e-07
+Average Film Velocity: 3.188665e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (113.983183 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.270672e-16, max: 5.031860e-06, avgThickness: 4.696252e-07
+Average Film Velocity: 3.188681e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (114.294612 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.279357e-16, max: 5.053098e-06, avgThickness: 4.709084e-07
+Average Film Velocity: 3.188698e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (114.606042 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.288077e-16, max: 5.071184e-06, avgThickness: 4.721915e-07
+Average Film Velocity: 3.188716e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (114.917471 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.296831e-16, max: 5.086241e-06, avgThickness: 4.734746e-07
+Average Film Velocity: 3.188734e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (115.228901 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.305619e-16, max: 5.098392e-06, avgThickness: 4.747577e-07
+Average Film Velocity: 3.188754e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (115.540330 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.314443e-16, max: 5.107761e-06, avgThickness: 4.760409e-07
+Average Film Velocity: 3.188774e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (115.851760 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.323301e-16, max: 5.114473e-06, avgThickness: 4.773240e-07
+Average Film Velocity: 3.188794e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (116.163189 %) of total spray mass
+wet area = 2.081543e-04 - increased: 163.636364 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.332193e-16, max: 5.118652e-06, avgThickness: 4.786071e-07
+Average Film Velocity: 3.188816e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (116.474618 %) of total spray mass
+wet area = 2.087524e-04 - increased: 164.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.047508e-16, max: 5.120419e-06, avgThickness: 4.785132e-07
+Average Film Velocity: 3.179701e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (116.786048 %) of total spray mass
+wet area = 2.087524e-04 - increased: 164.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.150042e-16, max: 5.119725e-06, avgThickness: 4.797927e-07
+Average Film Velocity: 3.179723e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (117.097477 %) of total spray mass
+wet area = 2.087524e-04 - increased: 164.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.260669e-16, max: 5.116662e-06, avgThickness: 4.810721e-07
+Average Film Velocity: 3.179747e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (117.408907 %) of total spray mass
+wet area = 2.087524e-04 - increased: 164.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.368113e-16, max: 5.111367e-06, avgThickness: 4.823516e-07
+Average Film Velocity: 3.179771e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (117.720336 %) of total spray mass
+wet area = 2.087524e-04 - increased: 164.393939 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.377180e-16, max: 5.103974e-06, avgThickness: 4.836310e-07
+Average Film Velocity: 3.179796e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (118.031766 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.002469e-16, max: 5.094613e-06, avgThickness: 4.835230e-07
+Average Film Velocity: 3.170737e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (118.343195 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.072343e-16, max: 5.104780e-06, avgThickness: 4.847988e-07
+Average Film Velocity: 3.170764e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (118.656457 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.147667e-16, max: 5.145900e-06, avgThickness: 4.860821e-07
+Average Film Velocity: 3.170789e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (118.969718 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.228401e-16, max: 5.184697e-06, avgThickness: 4.873654e-07
+Average Film Velocity: 3.170811e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (119.282979 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.314916e-16, max: 5.221178e-06, avgThickness: 4.886487e-07
+Average Film Velocity: 3.170831e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (119.596241 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.407594e-16, max: 5.255349e-06, avgThickness: 4.899320e-07
+Average Film Velocity: 3.170848e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (119.909502 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.441908e-16, max: 5.287224e-06, avgThickness: 4.912153e-07
+Average Film Velocity: 3.170864e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (120.222764 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.451312e-16, max: 5.316819e-06, avgThickness: 4.924986e-07
+Average Film Velocity: 3.170878e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (120.536025 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.460753e-16, max: 5.343559e-06, avgThickness: 4.937819e-07
+Average Film Velocity: 3.170892e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (120.849286 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.470229e-16, max: 5.367284e-06, avgThickness: 4.950651e-07
+Average Film Velocity: 3.170905e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (121.162548 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.479740e-16, max: 5.388095e-06, avgThickness: 4.963484e-07
+Average Film Velocity: 3.170918e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (121.475809 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.489288e-16, max: 5.406095e-06, avgThickness: 4.976317e-07
+Average Film Velocity: 3.170931e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (121.789071 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.498872e-16, max: 5.421385e-06, avgThickness: 4.989150e-07
+Average Film Velocity: 3.170944e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (122.102332 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.508492e-16, max: 5.434068e-06, avgThickness: 5.001983e-07
+Average Film Velocity: 3.170956e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (122.415593 %) of total spray mass
+wet area = 2.093506e-04 - increased: 165.151515 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.518148e-16, max: 5.444249e-06, avgThickness: 5.014816e-07
+Average Film Velocity: 3.170969e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (122.728855 %) of total spray mass
+wet area = 2.099487e-04 - increased: 165.909091 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.011507e-16, max: 5.452028e-06, avgThickness: 5.013305e-07
+Average Film Velocity: 3.161948e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (123.042116 %) of total spray mass
+wet area = 2.105469e-04 - increased: 166.666667 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.003080e-16, max: 5.457510e-06, avgThickness: 5.011802e-07
+Average Film Velocity: 3.152979e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (123.355378 %) of total spray mass
+wet area = 2.105469e-04 - increased: 166.666667 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.009865e-16, max: 5.460787e-06, avgThickness: 5.024562e-07
+Average Film Velocity: 3.152993e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** SOURCE ******************
+injected (123.668639 %) of total spray mass
+wet area = 2.105469e-04 - increased: 166.666667 %
+deposition difference = 0.000000 %
+*************** SOURCE ******************
+
+
+*************** STATS ******************
+min: 1.016677e-16, max: 5.461958e-06, avgThickness: 5.037322e-07
+Average Film Velocity: 3.153007e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.023443e-16, max: 5.461143e-06, avgThickness: 5.037322e-07
+Average Film Velocity: 1.546848e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.035815e-16, max: 5.454802e-06, avgThickness: 5.037322e-07
+Average Film Velocity: 1.328703e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.049655e-16, max: 5.440540e-06, avgThickness: 5.037322e-07
+Average Film Velocity: 1.139801e+00 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.063598e-16, max: 5.471498e-06, avgThickness: 5.037322e-07
+Average Film Velocity: 9.876799e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.079999e-16, max: 5.597550e-06, avgThickness: 5.037322e-07
+Average Film Velocity: 8.463435e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.096547e-16, max: 5.710748e-06, avgThickness: 5.037322e-07
+Average Film Velocity: 7.314921e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.113243e-16, max: 5.811111e-06, avgThickness: 4.994753e-07
+Average Film Velocity: 6.317118e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.130086e-16, max: 5.898659e-06, avgThickness: 4.980663e-07
+Average Film Velocity: 5.525073e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.147078e-16, max: 5.973528e-06, avgThickness: 4.980643e-07
+Average Film Velocity: 4.877690e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.164219e-16, max: 6.035952e-06, avgThickness: 4.980643e-07
+Average Film Velocity: 4.332636e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.088703e-16, max: 6.107180e-06, avgThickness: 4.966692e-07
+Average Film Velocity: 3.583756e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.231736e-16, max: 6.132849e-06, avgThickness: 4.966672e-07
+Average Film Velocity: 2.951911e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.268662e-16, max: 6.108494e-06, avgThickness: 4.966672e-07
+Average Film Velocity: 2.468571e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.315723e-16, max: 6.140645e-06, avgThickness: 4.966672e-07
+Average Film Velocity: 2.025782e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.363794e-16, max: 6.339099e-06, avgThickness: 4.966672e-07
+Average Film Velocity: 1.692425e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.412884e-16, max: 6.463490e-06, avgThickness: 4.966672e-07
+Average Film Velocity: 1.437100e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.462999e-16, max: 6.501666e-06, avgThickness: 4.966672e-07
+Average Film Velocity: 1.238099e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.527613e-16, max: 6.510823e-06, avgThickness: 4.966672e-07
+Average Film Velocity: 1.050431e-01 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.008810e-16, max: 6.920730e-06, avgThickness: 4.952799e-07
+Average Film Velocity: 8.688316e-02 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.066701e-16, max: 7.065382e-06, avgThickness: 4.952779e-07
+Average Film Velocity: 7.349512e-02 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.126612e-16, max: 7.011199e-06, avgThickness: 4.938983e-07
+Average Film Velocity: 6.300480e-02 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.204374e-16, max: 7.211814e-06, avgThickness: 4.925245e-07
+Average Film Velocity: 5.332773e-02 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.285370e-16, max: 7.693340e-06, avgThickness: 4.925226e-07
+Average Film Velocity: 4.597396e-02 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.369642e-16, max: 8.134479e-06, avgThickness: 4.925226e-07
+Average Film Velocity: 4.018708e-02 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.012701e-16, max: 8.482929e-06, avgThickness: 4.911582e-07
+Average Film Velocity: 3.545629e-02 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.031502e-16, max: 9.078445e-06, avgThickness: 4.884502e-07
+Average Film Velocity: 3.154535e-02 m/s
+X Film Front at: 1.897656e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.066008e-16, max: 9.081138e-06, avgThickness: 4.857701e-07
+Average Film Velocity: 2.833223e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.291078e-16, max: 9.594518e-06, avgThickness: 4.844392e-07
+Average Film Velocity: 2.482147e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.080263e-16, max: 9.874223e-06, avgThickness: 4.818046e-07
+Average Film Velocity: 2.201777e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.058713e-16, max: 9.745601e-06, avgThickness: 4.804953e-07
+Average Film Velocity: 1.984170e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.415010e-16, max: 9.189628e-06, avgThickness: 4.791949e-07
+Average Film Velocity: 1.800503e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.185516e-16, max: 9.080895e-06, avgThickness: 4.779015e-07
+Average Film Velocity: 1.641084e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.893418e-16, max: 9.306408e-06, avgThickness: 4.778998e-07
+Average Film Velocity: 1.510101e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.048252e-16, max: 9.044549e-06, avgThickness: 4.753373e-07
+Average Film Velocity: 1.392455e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.021188e-16, max: 8.408732e-06, avgThickness: 4.715413e-07
+Average Film Velocity: 1.282699e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.062103e-16, max: 8.543647e-06, avgThickness: 4.641299e-07
+Average Film Velocity: 1.104860e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.196747e-16, max: 8.512994e-06, avgThickness: 4.641202e-07
+Average Film Velocity: 1.039404e-02 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** STATS ******************
+min: 1.004446e-16, max: 7.962227e-06, avgThickness: 4.581238e-07
+Average Film Velocity: 8.962748e-03 m/s
+X Film Front at: 1.952344e-02
+*************** STATS ******************
+
+
+*************** CONSERVATION ******************
+
+Actual Volume: 2.433516e-08
+Injected Volume: 2.795987e-08
+Theoretical Volume: 2.260870e-08
+Diff Injected Volume: -1.296397e+01%
+Diff Theoretical Volume: 7.636274e+00%
+*************** CONSERVATION ******************
+
+
+# Quadtree, 359 steps, 5.87848 CPU, 6.237 real, 2.36e+05 points.step/s, 93 var
