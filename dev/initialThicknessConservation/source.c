@@ -1,0 +1,491 @@
+/*
+
+Using libvelt.a:
+Now we navigate to the crawler directory and build our executable binary. 
+There are two ways of doing this; we can do
+$ gcc -o crawler crawler.c list.c ../util/libtseutil.a
+in which we directly specify the path to the the library file; or we can do
+$ gcc -o crawler crawler.c list.c -L../util/ -ltseutil
+
+
+$ qcc -Wall -O2 source.c -o source -lm ./libvelt.a -I/usr/include/python2.7 -lpython2.7
+$ qcc -Wall -O2 source.c -o source -lm
+./source
+
+*/
+
+
+#include <stdlib.h>
+// #include<time.h>
+#include "saint-venant.h"
+
+
+
+
+// Variables
+// Spray Inclination Angle [deg]
+#define sprayAngle 30
+#define numberOfLayers 10
+#define level 6
+
+
+// Experiment
+// Simple Initial Wet Area Model - area of spray collision 
+#define wetAreaDiameter 10.e-3
+// Wet Area Radius [m]
+#define wetAreaRadius 0.5*wetAreaDiameter
+// Collision Area [m²]
+#define collisionArea M_PI*wetAreaRadius*wetAreaRadius
+
+
+// Domain
+// Domain Length [m]
+#define domainLenght 35.e-3
+// Domain Limits [m]
+#define yi -0.5*25.e-3
+#define yf 0.5*25.e-3
+#define xi 0.
+#define xf 35.e-3
+
+
+// Spray 
+// Point of Injection [m]
+#define pointOfInjection 0.2*domainLenght
+// Liquid Density [kg/m³] - Iso-Octane (Trimetilpentano)
+#define rho 690
+//Liquid Kinematic Viscosity [m²/s] - Iso-Octane (Trimetilpentano)
+#define kinematicViscosity 0.55e-6
+// Liquid Dynamic Viscosity [Pa/s] - Iso-Octane (Trimetilpentano)
+#define dynamicViscosity rho*kinematicViscosity
+// Period of Injection [s]
+#define periodOfInjection 8.45e-3
+// Injected Mass [kg]
+#define injectedMass 15.6e-6
+// Mass Rate [kg/s]
+#define massRate injectedMass/periodOfInjection
+// Volume Rate [m³/s]
+#define volumeRate massRate/rho
+// Film Thickness Rate [m/s] - Experiment: 0.034 m/s
+#define filmThicknessRate volumeRate/initialWetArea 
+
+
+// Simulation
+#define filmResolution 1.e-6
+#define timeStep 1.e-3
+#define sprayDuration 8.45e-3
+#define totalSimulation sprayDuration + 10.e-3
+
+
+// Plots
+#define printProfileAt 1.e-3
+
+
+
+// Film Front Displacement
+double xFilmFront = 0.;
+
+const scalar slipFactor[] = 0.0005;
+
+
+vector velocity[];
+scalar dropletDiameter[];
+
+double initialWetArea = 0.;
+double wetArea = 0.;
+double virtualVolumeFromDroplets = 0.;
+double accumulatedThickness = 0.;  
+double accumulatedVolume = 0.;
+double avgThickness = 0.;
+double sprayMass = 0.;
+double sprayVolume = 0.;
+
+int main()
+{
+  
+  L0 = domainLenght;
+  size (L0);
+  origin (-pointOfInjection, -L0/2.);
+  G = 9.81;
+  dry = 1.e-16;
+  N = 1 << level;
+  
+  // Number of Shear Layers
+  nl = numberOfLayers;
+
+  lambda_b = slipFactor;
+  
+  // Liquid Viscosity
+  nu = kinematicViscosity;
+    
+  dt = timeStep;
+      
+  run();
+   
+}
+
+
+event init (i = 0)
+{
+  
+    
+  
+  
+  initialWetArea = 0.;
+  virtualVolumeFromDroplets = 0.;
+  
+  double avgDropletVolume = 0.;
+  
+  
+  int counter = 0;
+  
+  foreach() { 
+
+    velocity.x[] = 0.;
+    velocity.y[] = 0.;
+    dropletDiameter[] = 0.;
+            
+    double r = sqrt(x*x + y*y);
+    
+    // Inside Initial Wet Area
+    if(r < wetAreaRadius)   {
+      
+      initialWetArea += Delta*Delta;    
+      
+      // Sauter Mean Diameter [m]      
+      // Try to account for liquid radial spread just after wall impingiment
+      double smd = -6.75*r*r + 0.0029*r + 2.74e-4;            
+      dropletDiameter[] = smd;
+      
+      double dropletVolume = (M_PI/6)*pow(dropletDiameter[], 3.);
+      
+      avgDropletVolume += dropletVolume;
+      counter++;
+            
+      double vel = (10423481112.5*pow(r, 4.) + 15379411.8*pow(r, 3.) - 635221.8*pow(r, 2.) - 161.2*r + 20.5);
+      velocity.x[] = vel*sin(sprayAngle*M_PI/180) + (1-fabs(y)/wetAreaRadius)*vel*cos(sprayAngle*M_PI/180); // vel*sin(sprayAngle*M_PI/180); // + 0.5*vel*cos(sprayAngle*M_PI/180)*(r/wetAreaRadius)*(x/fabs(x));
+      velocity.y[] = 0.5*vel*cos(sprayAngle*M_PI/180)*(y/fabs(y))*(2*(rand()%100)/100);
+
+    }
+    
+  }  
+  
+  avgDropletVolume /= counter;
+  
+  
+  
+
+ 
+  accumulatedThickness = 0.;  
+  accumulatedVolume = 0.;
+  
+  double min = 1.;
+  double max = 0.; 
+  double sumD = 0.;
+  
+  counter = 0;
+  
+  foreach() {       
+              
+    u.x[] = velocity.x[];
+    u.y[] = velocity.y[];
+        
+    double r = sqrt(x*x + y*y);
+    
+    // Inside Initial Wet Area
+    if(r < wetAreaRadius) {
+      
+      counter++;
+         
+//      
+//       
+      double dropletVolume = (M_PI/6)*pow(dropletDiameter[], 3.); 
+      sumD += dropletVolume;
+//       printf("sum of dropletVolume (%e)\n", sumD); 
+      
+      //double localThicknessSource = (dropletVolume/virtualVolumeFromDroplets)*(filmThicknessRate*dt); // (dropletVolume/virtualVolumeFromDroplets) sum gives 1 (tested)
+      // (filmThicknessRate*dt): total amount of thickness that must be added at that timestep
+      // (dropletVolume/avgDropletVolume): heterogeneity of spray droplet size
+      // ((Delta*Delta)/initialWetArea): thickness addition happens at each control volume, therefore it needs to be ponderated by total covered area
+      double localThicknessSource = (dropletVolume/avgDropletVolume)*((Delta*Delta)/initialWetArea)*(filmThicknessRate*dt);
+// ao invés de dividir por virtualVolumeFromDroplets, dividir pela média...
+      
+      accumulatedThickness += localThicknessSource; // This sum gives (filmThicknessRate*dt) (tested)
+//       accumulatedVolume += (Delta*Delta)*localThicknessSource;   
+      
+//       printf("\naccumulatedVolume (%e), virtualVolumeFromDroplets (%e), relative difference (%f %%)", accumulatedVolume, virtualVolumeFromDroplets, 100*(accumulatedVolume-virtualVolumeFromDroplets)/virtualVolumeFromDroplets);
+      printf("\naccumulatedThickness (%e)", accumulatedThickness);      
+      
+      
+      h[] = localThicknessSource; 
+            
+      if (h[] < min) min = h[];
+      if (h[] > max) max = h[];  
+      avgThickness += h[];
+      
+      /*
+      sprayMass += (dropletVolume/virtualVolumeFromDroplets)*(massRate*dt);     
+      sprayVolume += (dropletVolume/virtualVolumeFromDroplets)*(volumeRate*dt);
+      */
+                  
+    }    
+  
+  }  
+  avgThickness /= counter;
+ 
+  
+  double theoretical = filmThicknessRate*dt;
+  
+  printf("\nfilmThicknessRate (%e)", filmThicknessRate);
+  printf("\ndt: %f", dt);
+ 
+   
+  printf("\n(Theoretical) sum of h=filmThicknessRate*dt (%e)", theoretical);
+  printf("\n(Simulated) accumulatedThickness (%e)", accumulatedThickness);  
+  printf("\nTheoretical - Simulated thickness difference (%e %%)", 100*(accumulatedThickness-theoretical)/theoretical);
+ 
+  /*
+  printf("Injected (%f) of total spray mass\n", sprayMass/injectedMass);      
+  printf("minThickness: %e, maxThickness: %e, avgThickness: %e\n", min, max, avgThickness);  
+  printf("initialWetArea: %e\n", initialWetArea);
+  printf("massRate: %e\n", massRate);
+  printf("volumeRate: %e\n", volumeRate);
+  printf("filmThicknessRate: %e\n", filmThicknessRate);
+  printf("initial deposition difference = %f %%\n", 100*(accumulatedThickness-filmThicknessRate*dt)/(filmThicknessRate*dt));  
+  printf("Initial Injected Volume: %e, Initial Film Volume: %e\n", sprayVolume, avgThickness*initialWetArea)
+  */
+}
+
+/*
+event source (i++; t<=sprayDuration)
+{   
+  
+  wetArea = 0.; 
+  foreach() { 
+    if (h[] > filmResolution) 
+      wetArea += Delta*Delta;    
+  }
+       
+  double min = 1.;
+  double max = 0.;
+  double accumulatedThickness = 0.;
+  int counter = 0;
+  
+  foreach() {   
+      
+    // Inside Initial Wet Area
+    double r = sqrt(x*x + y*y);
+    if(r < wetAreaRadius) {
+                            
+      u.x[] = velocity.x[];
+      u.y[] = velocity.y[];
+      
+      double dropletVolume = (M_PI/6)*pow(dropletDiameter[], 3.);
+      
+      double localThicknessSource = (dropletVolume/virtualVolumeFromDroplets)*(filmThicknessRate*dt); // (dropletVolume/virtualVolumeFromDroplets) sum gives 1 (tested)
+                   
+      accumulatedThickness += localThicknessSource; // This sum gives (filmThicknessRate*dt) (tested)
+            
+      h[] += localThicknessSource; 
+      
+      sprayMass += (dropletVolume/virtualVolumeFromDroplets)*(massRate*dt);  
+      sprayVolume += (dropletVolume/virtualVolumeFromDroplets)*(volumeRate*dt); 
+      
+            
+    } 
+        
+    if (h[] > filmResolution) { 
+      counter++;     
+      if (h[] < min) min = h[];
+      if (h[] > max) max = h[];
+      avgThickness += h[];
+      
+      if (x > xFilmFront) xFilmFront = x;      
+    }
+  
+  }
+  
+  if (counter != 0) {
+    avgThickness /= counter;
+    
+    printf("\nInjected (%f) of total spray mass\n", sprayMass/injectedMass);  
+  //   printf("min: %e, max: %e, avgThickness: %e\n", min, max, avgThickness);
+    printf("Wet area = %e - Increased: %f %%\n", wetArea, 100*(wetArea-initialWetArea)/initialWetArea); 
+    printf("Deposition difference = %f %%\n", 100*(accumulatedThickness-filmThicknessRate*dt)/(filmThicknessRate*dt));
+  //   printf("X Film Front at: %e\n", xFilmFront);    
+  }
+  
+}
+
+
+
+event motion_stats (i++) {
+    
+    double averageFilmVelocity = 0.;
+    double actualVolume = 0.;
+    int counter = 0;
+    double min = 1.;
+    double max = 0.;
+    
+    foreach() {        
+        
+      
+        if (h[] > filmResolution) {
+	    counter++;
+	    double vel = sqrt(u.x[]*u.x[] + u.y[]*u.y[]);
+	    averageFilmVelocity += vel;           
+        
+	    if (h[] < min) min = h[];
+	    if (h[] > max) max = h[];
+	    avgThickness += h[];
+	    
+            
+	    if (x > xFilmFront) xFilmFront = x;  
+	}
+	
+	if (h[] > dry) {
+	  actualVolume += (Delta*Delta)*h[]; 
+	}
+                               
+    }
+    
+    if (counter != 0) {
+      averageFilmVelocity /= counter;
+      avgThickness /= counter;
+      
+      printf("min: %e, max: %e, avgThickness: %e\n", min, max, avgThickness);
+      printf("Average Film Velocity: %e m/s\n", averageFilmVelocity);
+      printf("Volume Conservation (%e / %e) = (%f) of currently injected volume\n", actualVolume, sprayVolume, actualVolume/sprayVolume);
+      printf("X Film Front at: %e\n", xFilmFront);
+    }
+    
+}
+
+
+
+// event initial_profile (i = 0) {
+//       
+//   static FILE * fp = fopen ("initial-velocity-profile.curve", "w");
+//   fprintf (fp, "#Time %e\n", t);
+//   
+//   foreach_leaf() {
+// #if dimension > 1
+//     if (fabs(y) < Delta)
+// #endif    
+//       fprintf (fp, "%e %e \n", x, topNeumann.x[]);
+//   }
+//   
+//   fprintf (fp, "\n");
+// 
+//   fflush (fp);
+//   
+// }
+
+
+event transient (t += printProfileAt; t <= totalSimulation) {
+      
+  static FILE * fp = fopen ("transient-thickness-profile.curve", "w");
+  fprintf (fp, "#Time %e\n", t);
+  
+  foreach_leaf() {
+#if dimension > 1
+    if (fabs(y) < Delta)
+#endif    
+      fprintf (fp, "%e %e \n", x, h[]);
+  }
+  
+  fprintf (fp, "\n");
+
+  fflush (fp);
+  
+}
+
+
+event stationary (t = totalSimulation) {
+  
+  FILE * fp = fopen ("stationary-thickness-profile.curve", "w");
+  fprintf (fp, "#Time %e\n", t);
+  
+  foreach_leaf() {
+#if dimension > 1
+    if (fabs(y) < Delta)
+#endif    
+      fprintf (fp, "%e %e \n", x, h[]);
+  }
+  
+  fclose (fp);
+  
+}
+
+
+
+event logfile (i++; t <= totalSimulation) {
+   fprintf (ferr, "%g %g\n", t, dt); 
+}*/
+
+
+event start_distributions (i = 0) { 
+  output_ppm (dropletDiameter, file = "d.ppm", n = 1 << 10); 
+  output_ppm (h, file = "h.ppm", n = 1 << 10);
+  output_ppm (u.x, file = "vx.ppm", n = 1 << 10);
+  output_ppm (u.y, file = "vy.ppm", n = 1 << 10);
+}
+
+/*
+// event distributions (t+=1.e-3; t<=totalSimulation) {   
+//   char name[25];
+//   sprintf(name, "h%.3f.ppm", t);
+//   output_ppm (h, file = name, n = 1 << 10);
+//   sprintf(name, "vx%.3f.ppm", t);
+//   output_ppm (u.x, file = name, n = 1 << 10);
+//   sprintf(name, "vy%.3f.ppm", t);
+//   output_ppm (u.y, file = name, n = 1 << 10);
+// }
+
+event spray_distributions (t=sprayDuration) {   
+  char name[25];
+  sprintf(name, "h%f.ppm", t);
+  output_ppm (h, file = name, n = 1 << 10);
+  sprintf(name, "vx%f.ppm", t);
+  output_ppm (u.x, file = name, n = 1 << 10);
+  sprintf(name, "vy%f.ppm", t);
+  output_ppm (u.y, file = name, n = 1 << 10);
+}
+
+event final_distributions (t=totalSimulation) {   
+  char name[25];
+  sprintf(name, "h%f.ppm", t);
+  output_ppm (h, file = name, n = 1 << 10);
+  sprintf(name, "vx%f.ppm", t);
+  output_ppm (u.x, file = name, n = 1 << 10);
+  sprintf(name, "vy%f.ppm", t);
+  output_ppm (u.y, file = name, n = 1 << 10);
+}
+
+
+
+event output_gifs (i += 20; t<=totalSimulation) {
+  static FILE * fp1 = popen ("ppm2gif > thickness.gif", "w");  
+  output_ppm (h, fp1, n = 1 << 10);
+  
+  static FILE * fp2 = popen ("ppm2gif > velocity-x.gif", "w");  
+  output_ppm (u.x, fp2, n = 1 << 10);
+  
+  static FILE * fp3 = popen ("ppm2gif > velocity-y.gif", "w"); 
+  output_ppm (u.y, fp3, n = 1 << 10);
+  
+//   scalar l[];
+//   foreach()
+//     l[] = level;
+//   static FILE * fp4 = popen ("ppm2gif > level.gif", "w");  
+//   output_ppm (l, fp4);  
+
+}*/
+
+
+
+/*
+
+event adapt (i++) {
+  astats s = adapt_wavelet ({h}, (double[]){1e-5}, level+1);
+  fprintf (ferr, "# refined %d cells, coarsened %d cells\n", s.nf, s.nc);
+}*/
